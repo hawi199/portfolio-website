@@ -18,7 +18,7 @@ This is my personal portfolio website, created to introduce myself, showcase my 
 
 ## 📸 Website Screenshot
 
-![Portfolio Website Screenshot](./images/portfolio.png)
+![image alt](https://github.com/hawi199/portfolio-website/blob/de5b9ae1a649e5696cbd5d8f4a2a9e6c9c14e969/portfoilo.png)
 
 ## 🔗 Live Demo
 Add your deployed website link here.
