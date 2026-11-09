@@ -32,5 +32,5 @@ Add your deployed website link here.
 Frontend Web Developer
 
 ## 📬 Contact
-- GitHub: Add your GitHub profile link
-- LinkedIn: Add your LinkedIn profile link
+- GitHub:my githublink ( https://github.com/hawi199)
+- LinkedIn: my linkedin link ( https://www.linkedin.com/in/hawi-zewdie-9a1796449/)
